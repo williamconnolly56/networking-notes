@@ -1,9 +1,9 @@
 
-#**Hypertext Transfer Protocol - HTTP 1.1**
+# **Hypertext Transfer Protocol - HTTP 1.1**
 
 ## *Introduciton*
 
-HTTP is a fundamental communication protocol used on the internet. It defines how data is formatted and transmitted between a client, typically a web browser, and a server hosting a website. HTTP allows for the retrieval and display of web content, including text, images, videos, and other resources. It operates on a request-response model, where the client sends requests for specific web resources, and the server responds with the requested data. HTTP is the backbone of the World Wide Web, enabling the browsing and interaction with websites and web applications.
+HTTP is a fundamental communication protocol used on the internet. It defines how data is formatted and transmitted between a client, typically a web browser, and a server hosting a website. HTTP allows for the retrieval and display of web content, including text, images, videos, and other resources. It operates on a request-response model, where the client sends requests for specific web resources, and the server responds with the requested data.
 
 ## *Improvements from HTTP 1.0*
 
