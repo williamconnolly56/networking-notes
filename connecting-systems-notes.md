@@ -30,4 +30,11 @@ HTTP 1.1 was introduced as an update to the original HTTP 1.0 to address its lim
 - Improved Security: While not a core part of the HTTP 1.1 specification, it paved the way for the development and adoption of HTTPS (HTTP Secure), which provides secure, encrypted communication between clients and servers.
 
 In conclusion, HTTP 1.1 significantly improved the performance, efficiency, and flexibility of web communication.
-  
+
+## References
+
+- https://www.w3.org/Protocols/rfc2616/rfc2616-sec1.html#sec1.1
+- https://http.dev/1.1
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+- https://www.baeldung.com/cs/http-versions
+- https://www.techtarget.com/whatis/definition/HTTP-Hypertext-Transfer-Protocol  
