@@ -1,7 +1,7 @@
-#**mTLS Notes**
+# **mTLS Notes**
 
 
-##*How is mTLS different from TLS?*
+## *How is mTLS different from TLS?*
 
 
 TLS (Transport Layer Security) and mTLS (mutual Transport Layer Security) both aim to secure communications between clients and servers, but they differ in their authentication processes:
@@ -19,21 +19,21 @@ TLS (Transport Layer Security) and mTLS (mutual Transport Layer Security) both a
 So, the key difference lies in the mutual authentication aspect of mTLS.
 
 
-##*Where is mTLS frequently used?*
+## *Where is mTLS frequently used?*
 
 
 mTLS is frequently used wherever the mutual authentication of both parties involved in communication is critical to maintaining the integrity, confidentiality, and security of the data being exchanged.
 
 
-##*Give an example application which uses mTLS*
+## *Give an example application which uses mTLS*
 
 
 Financial Transactions: In the financial sector, mTLS helps secure transactions between banking systems, ensuring that both the client and the server are authenticated, reducing the risk of fraudulent activities and protecting sensitive financial data.
 
 
-##*Diagram*
+## *Diagram*
 
-![mTLS Diagram](mTLS_diagram.png "mTLS diagram")
+![mTLS Diagram](/Users/william.connolly56/code/accelerator/networking-notes/mTLS_diagram.png)
 
 ## References
 
