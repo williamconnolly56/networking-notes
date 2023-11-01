@@ -33,7 +33,7 @@ Financial Transactions: In the financial sector, mTLS helps secure transactions 
 
 ## *Diagram*
 
-![mTLS Diagram](/Users/william.connolly56/code/mTLS_diagram.png)
+![mTLS_diagram](https://github.com/williamconnolly56/networking-notes/assets/146080335/63d2eac7-c9d9-4dc5-b2d8-0012104d7334)
 
 ## References
 
